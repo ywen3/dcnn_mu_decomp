@@ -18,7 +18,8 @@ hdEMG_validate is the runable code to train and validate the deep CNN:
     Build and train the deep CNN model;
   
     Test the deep CNN model for prediction/estimation accuracy performance and time efficiency performance;
-  
+
+An example data set to run the code can be found at https://doi.org/10.6084/m9.figshare.14179583.v1.
 
 This repository intends to service as supplementary materials for our publication in Journal of Neural Engineering. 
 Detailed information to be added.
